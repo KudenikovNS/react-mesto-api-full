@@ -1,0 +1,12 @@
+.authorization-page__btn-submit_disabled {
+	color: #fff;
+	border: 1px solid #fff;
+	background-color: transparent;
+	opacity: .4;
+	cursor: auto;
+}
+
+.authorization-page__btn-submit_disabled:hover {
+	opacity: .4;
+}
+

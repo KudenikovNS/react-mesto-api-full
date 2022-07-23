@@ -1,0 +1,9 @@
+.authorization-page {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	margin: 0 auto;
+	margin-bottom: 65px;
+	max-width: 358px;
+	max-height: 460px;	
+}

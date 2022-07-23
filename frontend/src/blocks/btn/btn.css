@@ -1,0 +1,25 @@
+.btn {
+	text-align: center;
+	font-size: 18px;
+	line-height: 22px;
+	border: none;
+	border-radius: 2px;
+	padding: 0;
+	width: 358px;
+	min-height: 50px;
+	cursor: pointer;
+	transition: opacity .3s;
+}
+
+.btn:hover {
+	opacity: .85;
+}
+
+@media screen and (max-width: 767px) {
+	.btn {
+		font-size: 14px;
+		line-height: 17px;
+		width: 238px;
+		min-height: 46px;
+	}
+}
