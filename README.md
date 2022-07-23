@@ -4,7 +4,7 @@
 158.160.2.21
 
 ## Сайт
-kudenikovns.studens.nomorepartiesxyz.ru
+https://kudenikovns.studens.nomorepartiesxyz.ru
 
 ## Бэкенд
-api.kudenikovns.students.nomoredomains.xyz
+https://api.kudenikovns.students.nomoredomains.xyz
